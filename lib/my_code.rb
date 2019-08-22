@@ -1,4 +1,4 @@
-# My Code here....
+
 def map_to_negativize(parameter_array)
  new_array = []
  i = 0
@@ -47,6 +47,7 @@ def reduce_to_total(source_array, starting_point=0)
     i += 1
   end
   return new_array
+<<<<<<< HEAD
 end
 
 def reduce_to_all_true (source_array)
@@ -68,3 +69,6 @@ def reduce_to_any_true (source_array)
 end  
  
     
+=======
+end
+>>>>>>> 150f5b0b08a10956e144765281a8f8c1756b706f
